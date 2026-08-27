@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.1.7",
-  "ghi_chu": "0.1.7 — MỚI: nút Mở rộng túi đồ (+5 ô, trả KNB) ở tab Túi đồ — bot hỏi giá server rồi mới hiện xác nhận, giá đổi thì huỷ. VÁ 4 lỗi khiến bot đứng im: (1) acc hết bình có thể nằm chết nhiều giờ mà không đi mua, kéo cả đội rã; (2) mặc đồ / set AGI bấm giữa trận nay được làm ngay khi hết trận thay vì rơi vào hư không; (3) túi đầy thì bot cứ cày tiếp, không bị kéo ra cửa thành mỗi 2,5 phút; (4) thành viên bị bỏ lại ngoài bãi nay tự về — hỏi đúng map chưa chứ không đo khoảng cách, nên bãi ở cấp nào cũng đúng.",
+  "phien_ban": "0.2.1",
+  "ghi_chu": "Bản 0.2.1 đã có. Bạn có muốn tải bản mới không?",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
