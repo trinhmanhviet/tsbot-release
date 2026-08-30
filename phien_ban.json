@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.8.0",
-  "ghi_chu": "Log tran: ten pet that thay cho 'pet cua X', va het canh in #35112 thay ten dong doi. COMBO gon mot dong, don le giu format cu. Do tren 144 tran party: 0 o thieu ten (tru tran dau tien), 0 disconnect.",
+  "phien_ban": "0.8.1",
+  "ghi_chu": "Log tran gio dem duoc: mot lan ra don = mot dong (truoc day mot cu AOE trung 3 con ra 3 dong giong het nhau). Dong COMBO liet ke ai danh, ten pet that, khong con #35112.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
