@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.7.3",
-  "ghi_chu": "COMBO that: log gio phan biet COMBO (nhieu don vi danh chung 1 muc tieu) voi AOE (mot don vi danh nhieu muc tieu) — doc thang tu goi, khong suy doan. Dropdown chon skill co nhan (combo-Cong)/(combo-Tri) mau do. Bam Back nay hoi lai truoc khi thoat, tranh thoat nham lam dung bot dang treo.",
+  "phien_ban": "0.7.5",
+  "ghi_chu": "COMBO gio in theo khoi: dong dau la ten quai, moi cap char-pet mot dong kem sat thuong rieng, cuoi khoi co tong. Ten nhan vat dong doi doc tu role_id trong goi tran (truoc hien #35112).",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
