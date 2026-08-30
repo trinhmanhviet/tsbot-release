@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.6.9",
-  "ghi_chu": "Sửa vỡ pt dây chuyền + đi bộ mượt. Cửa ải không còn gửi lệnh đi sớm 1ms làm rớt phiên; party vỡ thì chỉ acc gây lỗi rớt, không kéo cả đội theo; mọi luồng lập đội đều hội quân trước khi mời (hết cảnh mời khi mỗi người một map); gói bị chặn không còn làm bot đi ảo 60 đơn vị mỗi lần.",
+  "phien_ban": "0.7.0",
+  "ghi_chu": "Log tran doc duoc: hien TEN quai/char/pet thay cho TA-DICH, va gop chuoi don thanh MOT dong co nhan COMBO. Ten tuong cua dong doi nay doc thang tu goi server (het canh #52926). Mot goi 050-001 chua ca chuoi don — truoc chi doc don dau nen log roi rac.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
