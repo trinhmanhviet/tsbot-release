@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.3.6",
-  "ghi_chu": "Bản 0.3.6 đã có. Bạn có muốn tải bản mới không?",
+  "phien_ban": "0.6.9",
+  "ghi_chu": "Sửa vỡ pt dây chuyền + đi bộ mượt. Cửa ải không còn gửi lệnh đi sớm 1ms làm rớt phiên; party vỡ thì chỉ acc gây lỗi rớt, không kéo cả đội theo; mọi luồng lập đội đều hội quân trước khi mời (hết cảnh mời khi mỗi người một map); gói bị chặn không còn làm bot đi ảo 60 đơn vị mỗi lần.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
