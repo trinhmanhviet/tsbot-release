@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.7.0",
-  "ghi_chu": "Log tran doc duoc: hien TEN quai/char/pet thay cho TA-DICH, va gop chuoi don thanh MOT dong co nhan COMBO. Ten tuong cua dong doi nay doc thang tu goi server (het canh #52926). Mot goi 050-001 chua ca chuoi don — truoc chi doc don dau nen log roi rac.",
+  "phien_ban": "0.7.3",
+  "ghi_chu": "COMBO that: log gio phan biet COMBO (nhieu don vi danh chung 1 muc tieu) voi AOE (mot don vi danh nhieu muc tieu) — doc thang tu goi, khong suy doan. Dropdown chon skill co nhan (combo-Cong)/(combo-Tri) mau do. Bam Back nay hoi lai truoc khi thoat, tranh thoat nham lam dung bot dang treo.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
