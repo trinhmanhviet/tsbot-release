@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.7.5",
-  "ghi_chu": "COMBO gio in theo khoi: dong dau la ten quai, moi cap char-pet mot dong kem sat thuong rieng, cuoi khoi co tong. Ten nhan vat dong doi doc tu role_id trong goi tran (truoc hien #35112).",
+  "phien_ban": "0.7.6",
+  "ghi_chu": "COMBO log gon mot dong: liet ke ai dung ky nang gi, roi muc tieu, roi day sat thuong. Don khong combo giu nguyen format cu. Ten nhan vat dong doi nay tra duoc du (4 account trong app gop o cho nhau).",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
