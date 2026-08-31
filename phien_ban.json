@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.9.4",
-  "ghi_chu": "SUA LOI BOT DUNG IM KHONG TREO. Ban truoc them duong 'server bao chua xong thi lam lai' cho pho ban doi, kem chot chong quay vong — nhung chot chi gan o 1 trong 3 cho goi, nen hai cho con lai mo lai vo tan: bot quay vong 25 phut, khong danh tran nao. Nay chot gan du ca ba, va bai soi quet moi loi goi de khong sot nua.",
+  "phien_ban": "0.9.5",
+  "ghi_chu": "SUA LOI STOP LAM ROT ACC. Khi bo chay khoi tran, SERVER TU DOI CHO nhan vat (goi 020-008) — bot khong doc goi do nen van gui lenh di tu toa do CU va bi server da (3 acc rot trong 0,6 giay). Nay sau khi bi doi cho, bot cho server noi lai cho dung (toi da 8 giay) roi moi di. Kem cong cu moi doc chuoi goi theo thoi gian.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
