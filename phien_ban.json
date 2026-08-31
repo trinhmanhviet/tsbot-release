@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.9.5",
-  "ghi_chu": "SUA LOI STOP LAM ROT ACC. Khi bo chay khoi tran, SERVER TU DOI CHO nhan vat (goi 020-008) — bot khong doc goi do nen van gui lenh di tu toa do CU va bi server da (3 acc rot trong 0,6 giay). Nay sau khi bi doi cho, bot cho server noi lai cho dung (toi da 8 giay) roi moi di. Kem cong cu moi doc chuoi goi theo thoi gian.",
+  "phien_ban": "0.9.6",
+  "ghi_chu": "TREO CAY LA VIEC SAU CUNG. Truoc day doi treo CAT NGANG pho ban dang chay do de di lap doi — HoaCat va HoaHoLy bi cat o chang 4/4 (buoc cuoi), va moi lan bi cat lai bi tinh la mot lan THUA, du 3 lan thi bo ca ngay. Nen hai acc do chua tung duoc danh cho xong lan nao. Nay doi PHAI CHO viec pho ban/boss xong roi moi lap doi treo; bi cat ngang khong tinh la mot lan thu; va log noi dung ly do thay vi bao '90s khong thay tran'.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
