@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.9.3",
-  "ghi_chu": "SUA LOI BO CHAY SAU KHI DOI DI MUA BINH. Khi mot acc het binh, ca doi rut ra cua ra party de no di mua — dung thiet ke. Nhung co 'thoi danh' dat luc do mang dung nhan 'user da roi bai', ma luoi an toan lai co y chua nhan do ra (vi y muon user thi phai ton trong). Ket qua: mua binh xong ve bai van bo chay khoi moi tran, 21 lan trong 25 phut. Nay phan biet theo DUONG GOI: viec nen thi go duoc, chi nut Roi bai va Stop moi giu co.",
+  "phien_ban": "0.9.4",
+  "ghi_chu": "SUA LOI BOT DUNG IM KHONG TREO. Ban truoc them duong 'server bao chua xong thi lam lai' cho pho ban doi, kem chot chong quay vong — nhung chot chi gan o 1 trong 3 cho goi, nen hai cho con lai mo lai vo tan: bot quay vong 25 phut, khong danh tran nao. Nay chot gan du ca ba, va bai soi quet moi loi goi de khong sot nua.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
