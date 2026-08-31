@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.9.6",
-  "ghi_chu": "TREO CAY LA VIEC SAU CUNG. Truoc day doi treo CAT NGANG pho ban dang chay do de di lap doi — HoaCat va HoaHoLy bi cat o chang 4/4 (buoc cuoi), va moi lan bi cat lai bi tinh la mot lan THUA, du 3 lan thi bo ca ngay. Nen hai acc do chua tung duoc danh cho xong lan nao. Nay doi PHAI CHO viec pho ban/boss xong roi moi lap doi treo; bi cat ngang khong tinh la mot lan thu; va log noi dung ly do thay vi bao '90s khong thay tran'.",
+  "phien_ban": "0.9.7",
+  "ghi_chu": "BAM STOP LA DUNG HAN. Truoc day Stop chi dat co thoi danh + rut ra cua, con vong viec nen van chay: van tinh binh, van bi quai keo vao tran, va neu bat Auto reconnect thi bot con tu login lai roi lap doi treo tiep du user vua bao dung. Nay Stop: rut ra cua -> ra party -> TAT MOI VIEC NEN, va khong tu lap lai doi khi chinh user ra lenh dung. Auto reconnect van giu nguyen cho ca rot mang that.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
