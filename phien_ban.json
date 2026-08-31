@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.9.2",
-  "ghi_chu": "SUA LOI BAM STOP MA ACC KHONG RA DUOC CUA. Stop dat co dung cho ca doi TRUOC roi moi cho tung acc di ra cua — nen acc nao khoi hanh sau co thi bi chinh co do cat ngay sau MOT buoc, ket lai giua bai. Te hon: log van in '4/4 account da ra cua' vi no dem acc khong bao loi, khong doc ket qua that. Nay duong rut di duoc ke ca khi dang dung, va acc nao chua toi thi bao ro ten.",
+  "phien_ban": "0.9.3",
+  "ghi_chu": "SUA LOI BO CHAY SAU KHI DOI DI MUA BINH. Khi mot acc het binh, ca doi rut ra cua ra party de no di mua — dung thiet ke. Nhung co 'thoi danh' dat luc do mang dung nhan 'user da roi bai', ma luoi an toan lai co y chua nhan do ra (vi y muon user thi phai ton trong). Ket qua: mua binh xong ve bai van bo chay khoi moi tran, 21 lan trong 25 phut. Nay phan biet theo DUONG GOI: viec nen thi go duoc, chi nut Roi bai va Stop moi giu co.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
