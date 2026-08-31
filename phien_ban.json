@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.8.8",
-  "ghi_chu": "SUA LOI TU DOT NGOC DU PHONG. Khi o Dac thu dang deo NGOC HU, bot thay ngoc THANH CONG nhung khong ghi lai vao so, nen vong sau van tuong 'chua thay' va thay tiep — 5 lan lien, moi lan thao mot vien ngoc TOT ra roi deo vien khac vao. Cac acc khac khong dinh vi ngoc cu cua ho la ngoc het do ben (0/250), roi vao nhanh da duoc va tu truoc. Nay ghi so ngay sau khi gui lenh, va van giu tran 5 lan lam luoi an toan.",
+  "phien_ban": "0.8.9",
+  "ghi_chu": "DO MAC NAY CAP NHAT REALTIME. Truoc day bot chi biet do dang mac luc LOGIN, nen thay ngoc xong so van ghi mon cu hang gio — do la ly do bot tu doi ngoc lien tuc ma khong biet. Nay nghe them 2 goi: snapshot do mac tu server, va ACK moi lan mac do (ve sau 27ms). Them CANH BAO LECH: moi lan server bao do dang mac, bot tu so voi so cua minh, lech thi keu ngay kem ca hai ve (bot tuong gi / server noi gi).",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
