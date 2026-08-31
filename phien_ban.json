@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.8.6",
-  "ghi_chu": "SUA LOI ACC KHONG RA NOI KHOI BAI. Khi Boss Doan toi gio, doi ra cua roi ra party — dung thiet ke. Nhung lenh di bi hoan 2,5 giay sau moi tran, ma bot doc nham thanh 'bi chan' nen BO CA CHUYEN DI ngay tu buoc dau (do that: di duoc 0/2034 don vi). Acc dung giua bay quai, luon trong tran, nen server tu choi moi loi moi party — doi ket 14 phut, 175 lan bo chay. Nay phan biet HOAN (ngu dung ngan ay roi ban lai) voi CHAN THAT (cho het tran), tran cho 20 giay.",
+  "phien_ban": "0.8.7",
+  "ghi_chu": "SUA LOI SET AGI CO'I MAT NGOC PHUC THAN. Ngoc deo o o Dac thu nen no lot vao bai toan Set AGI nhu moi mon trang bi. Nhung ngoc cho 0 AGI va 0 sat thuong (no cho +2,5 EXP — thu bai toan khong biet), nen phuong an 'de trong o do' hoa diem va THANG, the la bot coi ngoc ra. Do that tren zDia_Chanz luc 11:27. Nay Set AGI khong dung toi ngoc nua, va them luoi: bot khong bao gio TU coi ngoc Phuc Than du duong nao goi. Van coi duoc 5 o thuong de ha AGI nhu cu.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
