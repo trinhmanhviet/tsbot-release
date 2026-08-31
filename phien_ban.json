@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.9.8",
-  "ghi_chu": "SUA LOI DOI MOI PT KHI CHUA DUNG CUNG CHO. Chu pt dang giua mot chuyen di do vong cay phat ra thi bi doi bay ve diem hen — nhung chuyen cu VAN CHAY NOT va keo no qua cua sang map khac, keo theo ca acc vua vao party. Roi doi moi party 2 phut sau do, luc chu pt da lac. Nay: thu hoi chuyen di cu truoc khi bay ve diem hen; vong cay cung phai nhuong nhu cac viec khac; kiem map NGAY TRUOC khi moi; va doi thieu nguoi vi moi truot thi watchdog tu gom lai sau 3 phut.",
+  "phien_ban": "1.0.0",
+  "ghi_chu": "MOC SO MOI 1.0.0. Gom toan bo cac ban va trong ngay 31/08: pho ban doi thua thi roi phong va thu lai 3 lan; treo cay la viec SAU CUNG (doi phai cho pho ban/boss xong moi lap doi treo); bam Stop la dung han (ve cua, tat moi viec nen, khong tu lap lai doi); do mac cap nhat realtime; va sua chuoi loi lam doi moi party khi chua dung cung cho.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
