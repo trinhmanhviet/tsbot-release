@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.9.7",
-  "ghi_chu": "BAM STOP LA DUNG HAN. Truoc day Stop chi dat co thoi danh + rut ra cua, con vong viec nen van chay: van tinh binh, van bi quai keo vao tran, va neu bat Auto reconnect thi bot con tu login lai roi lap doi treo tiep du user vua bao dung. Nay Stop: rut ra cua -> ra party -> TAT MOI VIEC NEN, va khong tu lap lai doi khi chinh user ra lenh dung. Auto reconnect van giu nguyen cho ca rot mang that.",
+  "phien_ban": "0.9.8",
+  "ghi_chu": "SUA LOI DOI MOI PT KHI CHUA DUNG CUNG CHO. Chu pt dang giua mot chuyen di do vong cay phat ra thi bi doi bay ve diem hen — nhung chuyen cu VAN CHAY NOT va keo no qua cua sang map khac, keo theo ca acc vua vao party. Roi doi moi party 2 phut sau do, luc chu pt da lac. Nay: thu hoi chuyen di cu truoc khi bay ve diem hen; vong cay cung phai nhuong nhu cac viec khac; kiem map NGAY TRUOC khi moi; va doi thieu nguoi vi moi truot thi watchdog tu gom lai sau 3 phut.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
