@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.8.5",
-  "ghi_chu": "SUA 2 LOI LAM BOT BO CHAY 46% SO TRAN. (1) Hang doi viec ngay bi ket o trang thai 'chua doc duoc' cA khi da quet xong — doi cho vinh vien roi khong lap duoc party. (2) Co bo chay co nhieu duong dat nhung chi mot duong go, nhanh 'cho du nguoi o cua' thoat som nen co con nguyen — bot bo chay khoi moi tran ke ca khi da len bai, bam Start cung khong het. Do that ban 0.8.4: 2062 tran/1h52 nhung 945 lan bo chay. Nay watchdog soi moi nhip: dang treo ma con co thi go ngay (van chua co ban bam Roi bai).",
+  "phien_ban": "0.8.6",
+  "ghi_chu": "SUA LOI ACC KHONG RA NOI KHOI BAI. Khi Boss Doan toi gio, doi ra cua roi ra party — dung thiet ke. Nhung lenh di bi hoan 2,5 giay sau moi tran, ma bot doc nham thanh 'bi chan' nen BO CA CHUYEN DI ngay tu buoc dau (do that: di duoc 0/2034 don vi). Acc dung giua bay quai, luon trong tran, nen server tu choi moi loi moi party — doi ket 14 phut, 175 lan bo chay. Nay phan biet HOAN (ngu dung ngan ay roi ban lai) voi CHAN THAT (cho het tran), tran cho 20 giay.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
