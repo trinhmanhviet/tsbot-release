@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.8.4",
-  "ghi_chu": "SUA LOI KET CUNG: cong chan lenh di tung chan VINH VIEN khi nghi lac vi tri — ma muon het nghi thi phai di duoc truoc, nen acc ket o cua khong loi thoat (do that: 3 acc ket 23 phut, Stop/Start khong go duoc). Nay chan co han 90 giay. Sau va: 332 tran/16 phut, 0 disconnect.",
+  "phien_ban": "0.8.5",
+  "ghi_chu": "SUA 2 LOI LAM BOT BO CHAY 46% SO TRAN. (1) Hang doi viec ngay bi ket o trang thai 'chua doc duoc' cA khi da quet xong — doi cho vinh vien roi khong lap duoc party. (2) Co bo chay co nhieu duong dat nhung chi mot duong go, nhanh 'cho du nguoi o cua' thoat som nen co con nguyen — bot bo chay khoi moi tran ke ca khi da len bai, bam Start cung khong het. Do that ban 0.8.4: 2062 tran/1h52 nhung 945 lan bo chay. Nay watchdog soi moi nhip: dang treo ma con co thi go ngay (van chua co ban bam Roi bai).",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
