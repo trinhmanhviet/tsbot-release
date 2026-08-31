@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.8.1",
-  "ghi_chu": "Log tran gio dem duoc: mot lan ra don = mot dong (truoc day mot cu AOE trung 3 con ra 3 dong giong het nhau). Dong COMBO liet ke ai danh, ten pet that, khong con #35112.",
+  "phien_ban": "0.8.4",
+  "ghi_chu": "SUA LOI KET CUNG: cong chan lenh di tung chan VINH VIEN khi nghi lac vi tri — ma muon het nghi thi phai di duoc truoc, nen acc ket o cua khong loi thoat (do that: 3 acc ket 23 phut, Stop/Start khong go duoc). Nay chan co han 90 giay. Sau va: 332 tran/16 phut, 0 disconnect.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
