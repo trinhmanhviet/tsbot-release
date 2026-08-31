@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.9.1",
-  "ghi_chu": "SUA CHO HIEN THI SAI 'HET LUOT'. Ban 0.9.0 dem so lan bot THU pho ban doi, nhung man hinh van lay so do tru vao so luot game — nen thua 3 lan la hien 'Con 0/1 luot' trong khi game VAN CON LUOT va van danh tay duoc. Nay man hinh chi tru luot khi that su HOAN THANH, con khi bot bo cuoc thi ghi ro 'Bot da thu 3 lan chua xong — con 1/1 luot'.",
+  "phien_ban": "0.9.2",
+  "ghi_chu": "SUA LOI BAM STOP MA ACC KHONG RA DUOC CUA. Stop dat co dung cho ca doi TRUOC roi moi cho tung acc di ra cua — nen acc nao khoi hanh sau co thi bi chinh co do cat ngay sau MOT buoc, ket lai giua bai. Te hon: log van in '4/4 account da ra cua' vi no dem acc khong bao loi, khong doc ket qua that. Nay duong rut di duoc ke ca khi dang dung, va acc nao chua toi thi bao ro ten.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
