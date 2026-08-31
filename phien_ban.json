@@ -1,6 +1,6 @@
 {
-  "phien_ban": "0.8.7",
-  "ghi_chu": "SUA LOI SET AGI CO'I MAT NGOC PHUC THAN. Ngoc deo o o Dac thu nen no lot vao bai toan Set AGI nhu moi mon trang bi. Nhung ngoc cho 0 AGI va 0 sat thuong (no cho +2,5 EXP — thu bai toan khong biet), nen phuong an 'de trong o do' hoa diem va THANG, the la bot coi ngoc ra. Do that tren zDia_Chanz luc 11:27. Nay Set AGI khong dung toi ngoc nua, va them luoi: bot khong bao gio TU coi ngoc Phuc Than du duong nao goi. Van coi duoc 5 o thuong de ha AGI nhu cu.",
+  "phien_ban": "0.8.8",
+  "ghi_chu": "SUA LOI TU DOT NGOC DU PHONG. Khi o Dac thu dang deo NGOC HU, bot thay ngoc THANH CONG nhung khong ghi lai vao so, nen vong sau van tuong 'chua thay' va thay tiep — 5 lan lien, moi lan thao mot vien ngoc TOT ra roi deo vien khac vao. Cac acc khac khong dinh vi ngoc cu cua ho la ngoc het do ben (0/250), roi vao nhanh da duoc va tu truoc. Nay ghi so ngay sau khi gui lenh, va van giu tran 5 lan lam luoi an toan.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
