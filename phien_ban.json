@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.0.0",
-  "ghi_chu": "MOC SO MOI 1.0.0. Gom toan bo cac ban va trong ngay 31/08: pho ban doi thua thi roi phong va thu lai 3 lan; treo cay la viec SAU CUNG (doi phai cho pho ban/boss xong moi lap doi treo); bam Stop la dung han (ve cua, tat moi viec nen, khong tu lap lai doi); do mac cap nhat realtime; va sua chuoi loi lam doi moi party khi chua dung cung cho.",
+  "phien_ban": "1.0.3",
+  "ghi_chu": "Sang ngày mới bot tự Start lại sạch sẽ (login → việc ngày → xong mới treo cày). Túi đầy chặn việc ngày thì báo qua Telegram + thẻ Cần bạn xử lý, nêu rõ đang mất việc nào.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
