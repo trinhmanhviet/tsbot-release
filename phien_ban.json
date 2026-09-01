@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.0.3",
-  "ghi_chu": "Sang ngày mới bot tự Start lại sạch sẽ (login → việc ngày → xong mới treo cày). Túi đầy chặn việc ngày thì báo qua Telegram + thẻ Cần bạn xử lý, nêu rõ đang mất việc nào.",
+  "phien_ban": "1.0.4",
+  "ghi_chu": "Đội hỏng thì bot TỰ dựng lại (5 lần, mỗi 3 phút) rồi mới kêu — không cần bấm Start tay. Acc đang làm việc ngày thì hoãn lập đội thay vì báo lỗi.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
