@@ -1,6 +1,6 @@
 {
-  "phien_ban": "1.0.4",
-  "ghi_chu": "Đội hỏng thì bot TỰ dựng lại (5 lần, mỗi 3 phút) rồi mới kêu — không cần bấm Start tay. Acc đang làm việc ngày thì hoãn lập đội thay vì báo lỗi.",
+  "phien_ban": "1.0.10",
+  "ghi_chu": "Vá 7 lỗi: vòng treo nay rã đội được khi đi mua bình (trước đó thành viên đi xa mà vẫn trong pt, kẹt cửa 53 phút); cờ bỏ chạy được gỡ bởi thread canh nền; đội hỏng thì tự dựng lại 5 lần rồi mới kêu; hộp thư an toàn hơn; phó bản 14 tạm tắt vì thiếu đường đi.",
   "ten_file": "TSBot-mobile-release.apk",
   "kich_thuoc_mb": 143
 }
